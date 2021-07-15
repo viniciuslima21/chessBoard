@@ -1,5 +1,5 @@
 # ChessBoard
-Um simples tabuleiro de xadrez, desenvolvido para treinamento pessoal no curso "Next.js & React" da Coder.
+Um simples tabuleiro de xadrez, desenvolvido para treinamento pessoal no curso "Next.js & React" da Cod3r.
 
 ## Tecnologias utilizadas
 * Html
